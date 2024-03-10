@@ -18,7 +18,7 @@ body {
 .container {
     width: 100%;
     min-height: 100vh;
-    background: var(--Very-Dark-Blue);
+    background: linear-gradient(135deg, #153677, #4e0856);
     padding: 10px;
 }
 
